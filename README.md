@@ -1,5 +1,5 @@
 # drTest
-Time: 30 minutes
+Time: 35 minutes
 
 
 Your job is to create a login system using React and Redux with whatever authorization method you want. 
