@@ -4,6 +4,8 @@ Time: 35 minutes
 
 Your job is to create a login system using React and Redux with whatever authorization method you want - this includes stores in localstorage or redux. The user needs to sign in and sign out. The site should at least two pages where any signin/signup/createaccount page is not accessible after signed in.
 
+Two pages are written for you already (pages/) in both react component and functional component - you can choose which one you like.
+
 Sign In page
 
 - redirect to main page after sign in
