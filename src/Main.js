@@ -7,7 +7,7 @@ import HomePage from "./pages/HomePageHook";
 
 class Main extends Component {
   render() {
-    // const { value, fn } = this.props;
+    // TODO: Add Router
     return <AuthPage />;
   }
 }
